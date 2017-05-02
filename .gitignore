@@ -11,3 +11,5 @@ node_modules
 
 #justin
 .DS_Store
+npm-debug.log
+bundle.js
